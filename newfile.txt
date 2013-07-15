@@ -18,4 +18,4 @@ hmm...last edit was from browser
 now I wish to commit my changes
 ...........
 again lets see what will happen..........:P
-
+now by adding a file ..earlier was with "-am"
